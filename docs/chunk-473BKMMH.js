@@ -1,0 +1,1 @@
+import{j as r,m as e,na as i}from"./chunk-H664ZS4D.js";var o=class t{constructor(a){this.http=a}jsonPath="assets/articles.json";getArticles(){return this.http.get(this.jsonPath)}static \u0275fac=function(n){return new(n||t)(e(i))};static \u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})};export{o as a};
